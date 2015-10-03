@@ -10,8 +10,8 @@
         android:layout_height="wrap_content"
         android:text="New\nText"/>
 
-    <LinearLayout
-        android:id="@+id/ll"
+    <info.thepass.surfaceapplication.PlayerView
+        android:id="@+id/sv"
         android:layout_width="match_parent"
         android:layout_height="75dp"
         android:orientation="horizontal"/>
